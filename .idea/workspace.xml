@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c116d463-f382-4620-9e96-0c8140d257e5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/counter.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/actions/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reducer/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducer/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +40,12 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\surik\OneDrive\Рабочий стол\redux-sandbox\src\components" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -59,7 +70,8 @@
       <option name="presentableId" value="Default" />
       <updated>1564352126243</updated>
       <workItem from="1564352129973" duration="4700000" />
-      <workItem from="1564385111375" duration="1027000" />
+      <workItem from="1564385111375" duration="3235000" />
+      <workItem from="1564483634812" duration="2704000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1564352178146</created>
@@ -82,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564357146196</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added bindActionCreators">
+      <created>1564386404580</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1564386404580</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +125,7 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="prepared workspace" />
     <MESSAGE value="added dispatch" />
-    <option name="LAST_COMMIT_MESSAGE" value="added dispatch" />
+    <MESSAGE value="added bindActionCreators" />
+    <option name="LAST_COMMIT_MESSAGE" value="added bindActionCreators" />
   </component>
 </project>

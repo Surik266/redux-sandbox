@@ -1,4 +1,4 @@
-export const reducer = (state = 0, { type, payload } ) => {
+export const reducer = (state = 15, { type, payload } ) => {
 
     switch ( type ) {
         case 'RND':
